@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-litestream/commit/6d043ddcafee3b2bfd1db05460cde8d6a86461a7",
       "git:hexsha": "6d043ddcafee3b2bfd1db05460cde8d6a86461a7",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.2a0"
     },
     {
