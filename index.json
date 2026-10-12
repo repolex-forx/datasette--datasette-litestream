@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-litestream",
+  "versions": [
+    {
+      "commit": "6d043ddcafee3b2bfd1db05460cde8d6a86461a7",
+      "tag": "0.2a0",
+      "parsed_at": "2026-10-12T16:56:45.027092+00:00"
+    }
+  ]
+}
