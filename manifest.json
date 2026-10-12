@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "datasette",
+  "repo": "datasette-litestream",
+  "versions": [
+    {
+      "commit": "6d043ddcafee3b2bfd1db05460cde8d6a86461a7",
+      "parsed_at": "2026-10-12T16:54:44.425165+00:00",
+      "tag": "0.2a0",
+      "filetree": "filetree/6d043ddcafee3b2bfd1db05460cde8d6a86461a7.nq.gz",
+      "blobs": [
+        "blob/1ba15f5af264b4e83a547cf8367a1b61c3905afa.nq.gz",
+        "blob/1470cd3dbf40b96a54cba2a84c4f10abae70a57b.nq.gz",
+        "blob/0ce0426386cc973499b961ad2644f8d353e83aeb.nq.gz",
+        "blob/e3def73628fee7848e5d63cd1a192b6a8f0e2c33.nq.gz",
+        "blob/b974d7c5d71fad72409f266f98921043bc6773ec.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/c08574e16d679b6d6ae5d2a8d2bc9432a2c27e01.nq.gz",
+        "blob/9656ea858a4e410f72d7d8261f4968aae6fd8dcc.nq.gz",
+        "blob/06b3b46c03f4832eb7f8c013aef32581b777e0f2.nq.gz",
+        "blob/58ba1b5861cd0ca2f4e0dc64e58ada868bf398ae.nq.gz",
+        "blob/585e92f8a32567537a46d216b3359e4da864b16d.nq.gz",
+        "blob/ac7d9862d4238dd58300f8b85dea7491e3962353.nq.gz",
+        "blob/8cf6735686e4b62b88fe41551ce13b3cc54a9b9d.nq.gz",
+        "blob/79e0d51bc0f8b6eade5b99f27b8a36351d0dd40b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
